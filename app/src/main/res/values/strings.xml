@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BuzzBuzz</string>
+    <string name="buzz_buzz">Buzz Buzz</string>
+    <string name="todo">TODO</string>
+    <string name="only_i_can_change_my_life_no_one_else_can_do_it_for_me">Only I can change my life. No one else can do it for me.</string>
+    <string name="more">More</string>
+    <string name="todo2">todo2</string>
+    <string name="enter_passcode_to_pay_for_more_services">Enter Passcode to pay for more services</string>
+    <string name="chill_pal">chill pal</string>
+    <string name="menu">Menu</string>
+    <string name="notify_emergency_contanct">Notify Emergency Contanct</string>
+    <string name="back_to_safety">back to safety</string>
+    <string name="todo3">TODO</string>
+    <string name="public_spaces">Public Spaces</string>
+</resources>
